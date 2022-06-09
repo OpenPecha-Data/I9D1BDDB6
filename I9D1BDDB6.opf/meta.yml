@@ -1,101 +1,111 @@
-id: P008094
+id: I9D1BDDB6
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 25/03/2020
-last_modified_at: 2021-12-17 13:01:10.537646
+imported: '2020-03-25T23:16:53+00:00'
+last_modified: '2022-06-09T04:27:18.838019+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W00EGS1017401
   title: གསུང་འབུམ། འཇིགས་མེད་དམ་ཆོས་རྒྱ་མཚོ།
   author: ''
-  volumes:
-    cb014992a89546cd83fd44bc7064e371:
-      image_group_id: I00EGS1017403
-      title: Volume 1 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 1
-      total_pages: 706
-      base_file: v001.txt
-    6fa6e8def87d4fe5939ef599356032a6:
-      image_group_id: I00EGS1017404
-      title: Volume 2 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 2
-      total_pages: 740
-      base_file: v002.txt
-    01efa35cedb84e518d309d89eca9452a:
-      image_group_id: I00EGS1017405
-      title: Volume 3 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 3
-      total_pages: 718
-      base_file: v003.txt
-    bd247f677f2141028b8a464e9ab2497d:
-      image_group_id: I00EGS1017406
-      title: Volume 4 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 4
-      total_pages: 710
-      base_file: v004.txt
-    c79127c8daf847a9a63824e08ba5b8e0:
-      image_group_id: I00EGS1017407
-      title: Volume 5 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 5
-      total_pages: 684
-      base_file: v005.txt
-    adeed40e0d724a1cb384322de5498c05:
-      image_group_id: I00EGS1017408
-      title: Volume 6 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 6
-      total_pages: 734
-      base_file: v006.txt
-    8ee8bdf4d46e4800aeab40539901b4e2:
-      image_group_id: I00EGS1017409
-      title: Volume 7 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 7
-      total_pages: 684
-      base_file: v007.txt
-    0d1dd6664ed44572ac232ce52504aff0:
-      image_group_id: I00EGS1017410
-      title: Volume 8 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 8
-      total_pages: 718
-      base_file: v008.txt
-    04e80e8a0c6347939fb13b623e0af962:
-      image_group_id: I00EGS1017411
-      title: Volume 9 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 9
-      total_pages: 674
-      base_file: v009.txt
-    31191d50a64745cab14cf663de1904f4:
-      image_group_id: I00EGS1017412
-      title: Volume 10 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 10
-      total_pages: 716
-      base_file: v010.txt
-    34e3a2d706364d1ab528ab88313508ea:
-      image_group_id: I00EGS1017413
-      title: Volume 11 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 11
-      total_pages: 684
-      base_file: v011.txt
-    848c33079d5e4a159bb341c4b323b577:
-      image_group_id: I00EGS1017414
-      title: Volume 12 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 12
-      total_pages: 746
-      base_file: v012.txt
-    2595e7f45c9649e6bacff15e80978b76:
-      image_group_id: I00EGS1017415
-      title: Volume 13 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 13
-      total_pages: 754
-      base_file: v013.txt
-    808239881f534edfbc379ff7fdae92c9:
-      image_group_id: I00EGS1017416
-      title: Volume 14 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 14
-      total_pages: 710
-      base_file: v014.txt
-    1192e2168d4f4cd8973315eeb093c842:
-      image_group_id: I00EGS1017417
-      title: Volume 15 of gsung 'bum / 'jigs med dam chos rgya mtsho
-      volume_number: 15
-      total_pages: 716
-      base_file: v015.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    5AEF:
+      image_group_id: I00EGS1017403
+      title: Volume 1 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 706
+      order: 1
+      base_file: 5AEF.txt
+    '3339':
+      image_group_id: I00EGS1017404
+      title: Volume 2 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 740
+      order: 2
+      base_file: 3339.txt
+    07AA:
+      image_group_id: I00EGS1017405
+      title: Volume 3 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 718
+      order: 3
+      base_file: 07AA.txt
+    '8238':
+      image_group_id: I00EGS1017406
+      title: Volume 4 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 710
+      order: 4
+      base_file: 8238.txt
+    C2DD:
+      image_group_id: I00EGS1017407
+      title: Volume 5 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 684
+      order: 5
+      base_file: C2DD.txt
+    C559:
+      image_group_id: I00EGS1017408
+      title: Volume 6 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 734
+      order: 6
+      base_file: C559.txt
+    AAA7:
+      image_group_id: I00EGS1017409
+      title: Volume 7 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 684
+      order: 7
+      base_file: AAA7.txt
+    '9444':
+      image_group_id: I00EGS1017410
+      title: Volume 8 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 718
+      order: 8
+      base_file: 9444.txt
+    EF91:
+      image_group_id: I00EGS1017411
+      title: Volume 9 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 674
+      order: 9
+      base_file: EF91.txt
+    '8283':
+      image_group_id: I00EGS1017412
+      title: Volume 10 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 716
+      order: 10
+      base_file: 8283.txt
+    A765:
+      image_group_id: I00EGS1017413
+      title: Volume 11 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 684
+      order: 11
+      base_file: A765.txt
+    12D1:
+      image_group_id: I00EGS1017414
+      title: Volume 12 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 746
+      order: 12
+      base_file: 12D1.txt
+    DD49:
+      image_group_id: I00EGS1017415
+      title: Volume 13 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 754
+      order: 13
+      base_file: DD49.txt
+    4B38:
+      image_group_id: I00EGS1017416
+      title: Volume 14 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 710
+      order: 14
+      base_file: 4B38.txt
+    703B:
+      image_group_id: I00EGS1017417
+      title: Volume 15 of gsung 'bum / 'jigs med dam chos rgya mtsho
+      total_pages: 716
+      order: 15
+      base_file: 703B.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
